@@ -1,0 +1,1 @@
+# vaio-power-control-shortcut
